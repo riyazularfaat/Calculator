@@ -3,4 +3,5 @@
 ---
 
 *Input:* Take two double numbers and a single operator as an input.
+
 *operation:* Operations include addition, subtraction, multiplication and divition.
